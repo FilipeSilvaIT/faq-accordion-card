@@ -28,3 +28,7 @@ main {
 .left,.right {
     width:50%;
 }
+
+.attribution,.box {
+    position:absolute
+}
